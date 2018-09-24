@@ -1,2 +1,2 @@
 # dpg
-DSL playground
+Playground for DSL magic tricks.
