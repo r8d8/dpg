@@ -1,2 +1,2 @@
-# dpg
-Playground for DSL magic tricks.
+# wasabi
+Playground for WebAssembly integration.
